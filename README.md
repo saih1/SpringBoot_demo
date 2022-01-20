@@ -17,3 +17,5 @@ Techs and Tools
 - **Repeatable** -> same result each time, not flaky
 - **Self-validating** -> actual vs expected
 - **Timely** -> with (or even before!) production code
+
+Source: https://youtu.be/TJcshrJOnsE
