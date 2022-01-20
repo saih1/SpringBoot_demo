@@ -1,0 +1,8 @@
+*F.I.R.S.T Principles for Automated Tests*
+
+Fast-> fast feedback loop, run often
+Isolated -> independent, arbitrary order
+Repeatable -> same result each time, not flaky
+Self-validating -> actual vs expected
+Timely - with (or even before!) production code
+
